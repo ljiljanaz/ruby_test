@@ -24,3 +24,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+ovo ne znam kako da zaustavim
